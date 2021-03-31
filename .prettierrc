@@ -1,6 +1,7 @@
 {
   "quotes": true,
-  "semi": false, 
+  "semi": true, 
   "tabWidth": 2
 }
+
 
